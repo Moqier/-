@@ -48,7 +48,6 @@
 * wumx1@yiche.com
 * pengyang1@yiche.com
 * yuanjt1@yiche.com
-* cenc@yiche.com
 * liyahong@yiche.com
 * yuyuting1@yiche.com
 * dingxu1@yiche.com
